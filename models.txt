@@ -1,0 +1,86 @@
+// TimeLine 
+
+  {
+            "updated_at": "2020-10-25T12:28:22.526Z",
+            "date": "2020-10-25",
+            "deaths": 1155148,
+            "confirmed": 42869177,
+            "recovered": 31087221,
+            "active": 10626808,
+            "new_confirmed": 4453074,
+            "new_recovered": 4477400,
+            "new_deaths": 64794,
+            "is_in_progress": true
+  }
+
+
+
+// Country
+
+  {
+            "coordinates": {
+                "latitude": 33,
+                "longitude": 65
+            },
+            "name": "Afghanistan",
+            "code": "AF",
+            "population": 29121286,
+            "updated_at": "2020-10-25T13:04:31.080Z",
+            "today": {
+                "deaths": 3,
+                "confirmed": 65
+            },
+            "latest_data": {
+                "deaths": 1514,
+                "confirmed": 40833,
+                "recovered": 34129,
+                "critical": 5190,
+                "calculated": {
+                    "death_rate": 3.707785369676487,
+                    "recovery_rate": 83.58190679107584,
+                    "recovered_vs_death_ratio": null,
+                    "cases_per_million_population": 93
+                }
+            }
+        }
+
+          "data": {
+        "coordinates": {
+            "latitude": 46,
+            "longitude": 2
+        },
+        "name": "France",
+        "code": "FR",
+        "population": 64768389,
+        "updated_at": "2020-10-25T13:18:53.101Z",
+        "today": {
+            "deaths": 0,
+            "confirmed": 0
+        },
+        "latest_data": {
+            "deaths": 34645,
+            "confirmed": 1086497,
+            "recovered": 109486,
+            "critical": 942366,
+            "calculated": {
+                "death_rate": 3.188688049759916,
+                "recovery_rate": 10.07697214074222,
+                "recovered_vs_death_ratio": null,
+                "cases_per_million_population": 2441
+            }
+        },
+        "timeline": [
+            {
+                "updated_at": "2020-10-25T13:18:22.416Z",
+                "date": "2020-10-25",
+                "deaths": 34645,
+                "confirmed": 1086497,
+                "active": 942366,
+                "recovered": 109486,
+                "new_confirmed": 266121,
+                "new_recovered": 3112,
+                "new_deaths": 1587,
+                "is_in_progress": true
+            },
+          ]
+
