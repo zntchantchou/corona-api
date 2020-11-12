@@ -1,5 +1,5 @@
 import gql from 'graphql-tag';
-import Countries from './Countries/Countries';
-import TimeLine from './TimeLine/TimeLine';
+import Countries from './Countries/schema';
+import TimeLine from './TimeLine/schema';
 
 export {Countries, TimeLine}

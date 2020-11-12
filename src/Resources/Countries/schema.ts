@@ -1,5 +1,5 @@
 import gql from "graphql-tag";
-import TimeLine from "../TimeLine/TimeLine";
+import TimeLine from "../TimeLine/schema";
 
 export default gql`
 type Country {
@@ -13,8 +13,8 @@ type Country {
 } 
 
 type Coordinates {
-    latitude: Int
-    longitude: Int 
+    latitude: Float
+    longitude: Float 
 }
 type Today {
   deaths: Int
@@ -32,7 +32,7 @@ type Calculated {
   death_rate: Float
   recovery_rate: Float
   recovered_vs_death_ratio: Float
-  cases_per_million_population: Int
+  cases_per_million_population: Float
 }
 `
 /*

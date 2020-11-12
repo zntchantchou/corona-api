@@ -1,1 +1,1 @@
-{"version":3,"file":"gql-types.js","sourceRoot":"","sources":["../../src/Resources/gql-types.ts"],"names":[],"mappings":";;;;;;AACA,sEAA8C;AAGtC,oBAHD,mBAAS,CAGC;AAFjB,mEAA2C;AAExB,mBAFZ,kBAAQ,CAEY"}
+{"version":3,"file":"gql-types.js","sourceRoot":"","sources":["../../src/resources/gql-types.ts"],"names":[],"mappings":";;;;;;AACA,gEAA2C;AAGnC,oBAHD,gBAAS,CAGC;AAFjB,+DAAyC;AAEtB,mBAFZ,gBAAQ,CAEY"}
